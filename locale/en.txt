@@ -1,0 +1,32 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_DD99EA68_D0F7_0594_41A8_468226DBCAA6.label = 1- Entrada_Principal_360
+panorama_DA1C4BFC_D0F1_7A6C_41E2_47E47AF72654.label = 10- Corredor_Meio_2_360
+panorama_DA1CDBDE_D0F1_1AAC_41A5_19184F4D424B.label = 11- Palanque_360
+panorama_DA1CFCAA_D0F1_3E97_41C2_4EA2F267EA59.label = 12- Corredor_Startups_360
+panorama_DA1C8B50_D0F1_1BB4_41AC_5D85142DE27A.label = 13- Corredor_Startups_2_360
+panorama_DA1CC9F6_D0F1_067C_41C9_437C6264368A.label = 15- Sala_Descompressao_1_360
+panorama_DA1C68DD_D0F1_06AC_41E7_A9DF8CFF85B1.label = 16- Mezanino_Principal_1_360
+panorama_DA1C4926_D0F1_079C_41E4_24C7A5566B9F.label = 17- Mezanino_Principal_2_360
+panorama_DA1C597D_D0F1_066C_4183_8F669C7324D9.label = 18- Mezanino_Principal_3_360
+panorama_DA1C7BB9_D0F1_7AF5_41CE_00F7BCF01EE8.label = 19- Sala_Descompressao_2_360
+panorama_DA191D18_D0F7_7FB4_41D7_B588772D78E3.label = 2- Entrada_Principal_2_360
+panorama_DA1F8D9E_D0F1_1EAC_41BD_035F4B10B124.label = 20- Espaco_Maker_1_360
+panorama_DA1C2D2F_D0F1_3FEC_41DF_8305118EF8A8.label = 21- Espaco_Maker_2_360
+panorama_DA1FBC6A_D0F1_1D94_41E2_AD44C9ACD81B.label = 22- Espaco_Maker_3_360
+panorama_DA1D5BDF_D0F7_1AAC_41D1_F4A65B9F5C2D.label = 3- Entrada_Principal_3_360
+panorama_DA1D9B3C_D0F7_3BEC_41D2_C89CAEB92136.label = 4- Mezanino_Entrada_1_360
+panorama_DA1DBB55_D0F0_FBBC_41C4_26E5E24C5384.label = 6- Entrada_Placa_360
+panorama_DA1C8C74_D0F1_1E7C_41D6_07BF31F16F43.label = 7- Entrada_Corredor_1_360
+panorama_DA1C4BD2_D0F1_3AB4_41E2_FB06CB55DA51.label = 8- Display_Meio_360
+panorama_DA1C8C08_D0F1_1D94_41B2_BDBA49690802.label = 9- Corredor_Meio_360
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Parque Tecnologico - FIEP
